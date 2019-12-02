@@ -1,0 +1,1 @@
+input('What is Your word?')
